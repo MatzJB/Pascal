@@ -1,0 +1,146 @@
+<? include("include3.0/functions.php"); ?>
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<html xml:lang="en"><!-- InstanceBegin template="/Templates/errors.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+
+<title>Cal Poly Pomona: File Not Found</title>
+
+<!-- InstanceEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="http://www.csupomona.edu/css/imports_wr.css" media="screen" type="text/css" rel="stylesheet">
+<link href="http://www.csupomona.edu/css/print.css" media="print" type="text/css" rel="stylesheet">
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+
+<!-- banner area -->
+
+<div id="banner"><!-- IE fix --></div>
+
+<div id="logotype">
+<a href="/"><img src="http://www.csupomona.edu/img/cal_poly_logoype_narrow.gif" width="750" height="20" alt="Cal Poly Pomona"></a>
+</div>
+
+<!-- main content/navigation area -->
+
+<div id="topmenu">
+<!-- IE fix -->
+</div>
+
+<div id="lfill">
+
+<div id="leftnav">
+
+<div id="leftnav_top"><!-- IE fix --></div>
+
+<div id="mainnav">
+
+
+  <!-- InstanceBeginEditable name="main_menu" -->
+  <ul>
+    <li><a href="http://www.csupomona.edu/~ehelp/">eHelp</a></li>
+    <li><a href="http://www.csupomona.edu/~webteam/">WebTeam</a></li>
+    <li><a href="http://www.csupomona.edu/~admissions/">Admissions</a></li>
+    <li><a href="http://www.csupomona.edu/directories.php">Directories</a></li>
+  </ul>
+  <!-- InstanceEndEditable --></div> 
+
+</div>
+
+<div id="contents">
+
+<div id="contents_top"><!-- IE fix --></div>
+
+
+
+
+<div id="search">
+
+<form name="gs" method="get" action="http://www.google.com/u/calpolypomona" style="margin: 0px;">
+
+<input type="hidden" name="domains" value="csupomona.edu"><input type="hidden" name="sitesearch" value="csupomona.edu">
+
+<label for="q"><img src="http://www.csupomona.edu/img/button_search.gif" alt="Search" width="40" height="18" title="Search csupomona.edu using Google"></label> 
+
+<input type="text" name="q" id="q" size="12" maxlength="50" class="sm" style="border-right: 1px solid #CCCCCC; border-top: #CCCCCC 1px solid; border-left: #CCCCCC 1px solid; border-bottom: #CCCCCC 1px solid; background-color: #ffffff; margin-top: 7px;"> 
+
+<input type="image" name="sa" src="http://www.csupomona.edu/img/button_go.gif" title="Go">&nbsp;
+
+</form>
+
+</div>
+
+
+
+
+
+
+<h1><!-- InstanceBeginEditable name="page_heading" -->File Not Found<!-- InstanceEndEditable --></h1> 
+
+<div id="contents_folder"><!-- InstanceBeginEditable name="contents" -->
+
+            <p>Sorry, the requested URL was not found on this server.</p>
+
+            <p>It may have been moved to another location, or it may be incorrectly 
+              linked at the site that brought you here. There is a possibility 
+              that the page you are looking for is temporarily missing because 
+              of maintenance.</p>
+            <p>If you entered it by hand, you may have typed it incorrectly:</p>
+
+            <ul>
+
+              <li> cAPitaliZATIon mATTers, no matter how strange it may appear</li>
+
+              <li>URLs may contain the tilde character (~), like <a href="/%7Ewebteam/">http://www.csupomona.edu/~webteam</a>, 
+
+                or not, like <a href="/map/">http://www.csupomona.edu/map</a>, 
+
+                but no hyphens (-) or other characters in the spot after .edu/</li>
+
+            </ul>
+
+            <p>You can start at the <a href="http://www.csupomona.edu/">main page</a> and see if the links 
+              take you where you want to go. You can use the search box above. If that doesn't work, you can contact 
+              the owner of the page. If you are not sure of the owner's email 
+              address, look at the URL. If the URL were http://www.csupomona.edu/~<strong>user</strong>/filename.html, 
+              the email address would be <strong>user</strong>@csupomona.edu.</p>
+
+            
+<p> Sorry for the inconvenience, and thank you for visiting Cal Poly 
+
+              Pomona.</p>
+
+            <p>&nbsp;</p>
+
+          <!-- InstanceEndEditable --></div>
+
+</div>
+<div style="clear: both;"><!-- NS 6 hack --></div>
+</div>
+
+<!-- right content/navigation area is not used -->
+
+<!-- footer area -->
+
+<div id="footer">
+<p><img src="http://www.csupomona.edu/img/home_bottom_cla_logo.gif" alt="" width="16" height="34"><br>
+&nbsp;&nbsp;&nbsp;&copy; 
+2004 <a href="http://www.csupomona.edu/" >California State Polytechnic University, Pomona</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.csupomona.edu/policies.php" >policies</a> | 
+<a href="http://www.csupomona.edu/sitemap.php" >site map</a> | 
+<a href="http://www.csupomona.edu/directories.php">directories</a> |
+<a href="http://www.csupomona.edu/~ehelp/">eHelp</a> | 
+<a href="https://webmail.csupomona.edu/" >web mail</a> | 
+<a href="http://www.csupomona.edu/feedback.php" >contact info</a></p>
+</div>
+
+</body>
+
+<!-- InstanceEnd --></html>
