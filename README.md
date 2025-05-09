@@ -16,4 +16,5 @@ Animations are accomplished using delays and redrawing over shrinking ellipses
 Mouse input is controlling cursor
 
 ## Screen recording of replay
-![Screen Recording 2025-05-09 104030](https://github.com/user-attachments/assets/a9a03029-8273-4124-a55d-b93bc48cf8b8)
+
+![Screen Recording 2025-05-09 104030](https://github.com/user-attachments/assets/7cdc1e49-c97c-457c-94bd-722eed842422)
