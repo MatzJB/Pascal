@@ -3,17 +3,17 @@ Old code from highschool (year 2000). Final project in my Pascal course.
 
 
 ## Features
-Play two players on one computer (red/blue)
+* Play two players on one computer (red/blue)
 
-Records a log of moves
+* Records a log of moves
 
-Replay capability
+* Replay capability
 
-Knows all the rules, is able to tell who is the winner and keeps a score
+* Knows all the rules, is able to tell who is the winner and keeps a score
 
-Animations are accomplished using delays and redrawing over shrinking ellipses
+* Animations are accomplished using delays and redrawing over shrinking ellipses
 
-Mouse input is controlling cursor
+* Mouse input is controlling cursor
 
 ## Screen recording of replay
 
